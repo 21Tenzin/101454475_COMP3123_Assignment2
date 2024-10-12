@@ -1,0 +1,21 @@
+{
+  "name": "101454475_comp3123_assignment1",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "Tenzin Thinley",
+  "license": "ISC",
+  "description": "A backedn application for the COMP3123 course",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.21.1",
+    "mongoose": "^8.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
